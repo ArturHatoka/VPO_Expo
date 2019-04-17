@@ -1,0 +1,330 @@
+@media screen and (max-width: 1300px) {
+    .hd-l-ab{
+        display: none;
+    }
+    .hd-l{
+        width: 25%;
+    }
+    .hd-r-t{
+        width: 80%;
+    }
+    .hd-r-m{
+        width: 80%;
+    }
+    .form-m-l{
+        width: 55%;
+    }
+    .m-l-sp2{
+        font-size: 35px;
+    }
+    ul.form-m-ul{
+        font-size: 15px;
+        line-height: 34px;
+    }
+    .itm img, .itm-2 img, .itm-3 img {
+        height: 120px;
+    }
+    .itm-ul li {
+        line-height: 20px;
+        font-size: 13px;
+    }
+    .itm button, .itm-2 button {
+        margin-left: 22%;
+    }
+    .itm-slide{
+        width: 65%;
+    }
+    .itm-abs{
+        width: 60%;
+    }
+    .itm-ab{
+        width: 60%;
+    }
+    .itm-ab p{
+        font-size: 43px;
+    }
+    .itm-slider{
+        width: 40%;
+    }
+    .itm-abs ul {
+        margin-left: -20px;
+    }
+    .itm-ab ul {
+        margin-left: -20px;
+    }
+    .client {
+        height: 550px;
+    }
+    .f-inpt {
+        width: 25%;
+    }
+    .f-inpt.but {
+        width: 32%;
+    }
+}
+@media screen and (max-width: 960px) {
+    .hd-l {
+        margin-left: 10%;
+    }
+    .hd-r {
+        width: 55%;
+        padding-top: 30px;
+    }
+    .form-m-l {
+        width: 85%;
+        margin-left: 15%;
+        margin-bottom: 5%;
+    }
+    .hd-form-r {
+        float: left;
+        margin-left: 25%;
+    }
+    .itm img, .itm-2 img, .itm-3 img {
+        height: 260px;
+    }
+    .itm, .itm-2 {
+        width: 100%;
+    }
+    .itm button, .itm-2 button {
+        margin-left: 40%;
+    }
+    .itm-abs, .itm-ab {
+        width: 100%;
+        margin-top: 5%;
+    }
+    .itm-slider {
+        width: 80%;
+        margin-left: 10%;
+    }
+    .gls-l{
+        padding-left: 5%;
+    }
+    .dillers {
+        width: 80%;
+        margin-left: 10%;
+    }
+    .client {
+        height: 450px;
+    }
+    .f-inpt {
+        width: 90%;
+    }
+    .f-inpt.but {
+        width: 100%;
+    }
+    .footer {
+        width: 90%;
+        margin-left: 5%;
+    }
+    .mid-label li {
+        line-height: 1.2;
+    }
+    .serc {
+        width: 90%;
+        margin-left: 5%;
+    }
+    .hd-r-t, .hd-r-m{
+        width: 100%;
+    }
+    .itm-box h2 {
+        font-size: 33px;
+    }
+    .itm-abs p {
+        font-size: 42px;
+    }
+    .modalDialog > div {
+        width: 50%;
+    }
+    .inp-req input[type="submit"] {
+        width: 83%;
+    }
+}
+@media screen and (max-width: 500px) {
+    .hd-l {
+        margin-left: 1%;
+        width: 40%;
+    }
+    svg.phone-icon{
+        width: 25px !important;
+        margin-top: -5px !important;
+    }
+    .hd-r {
+        width: 59%;
+    }
+    .hd-r-t, .hd-r-m{
+        font-size: 21px;
+    }
+    .hd-form-m{
+        width: 100%;
+        margin-left: 0;
+    }
+    .m-l-sp1{
+        font-size: 24px;
+    }
+    .m-l-sp2 {
+        font-size: 22px;
+    }
+    ul.form-m-ul {
+        font-size: 13px;
+        line-height: 22px;
+        margin-left: -20px;
+    }
+    .hd-form-r {
+        margin-left: 15%;
+    }
+    .itm-box h2 {
+        font-size: 21px;
+    }
+    .itm p {
+        font-size: 16px;
+    }
+    .itm img, .itm-2 img, .itm-3 img {
+        height: 200px;
+    }
+    .itm-ul li {
+        font-size: 12px;
+    }
+    .itm button, .itm-2 button {
+        margin-left: 30%;
+    }
+    .itm-2 p, .itm-3 p {
+        font-size: 22px;
+    }
+    .itm-abs p {
+        font-size: 26px;
+    }
+    .itm-abs ul {
+        font-size: 14px;
+    }
+    .itm-abs button, .itm-ab button{
+        margin-left: 22%;
+    }
+    .itm-slider {
+        width: 100%;
+        margin-left: 0;
+    }
+    .gls-kv{
+        display: none;
+    }
+    .gls-l p:first-child b {
+        font-size: 50px;
+    }
+    .itm-ab p {
+        font-size: 24px;
+    }
+    .itm-ab li {
+        font-size: 13px;
+    }
+    .dillers-form button{
+        margin-left: 19%;
+    }
+    .dillers-form p:first-child {
+        font-size: 30px;
+    }
+    .dillers-form p:last-child {
+        font-size: 14px;
+    }
+    .clients p:first-child {
+        font-size: 30px;
+    }
+    .client{
+        width: 100%;
+    }
+    .cl-1, .cl-2{
+        height: 100%;
+    }
+    .client p {
+        font-size: 30px;
+    }
+    .commerce {
+        width: 90%;
+        margin-left: 5%;
+    }
+    .serc p {
+        font-size: 32px;
+    }
+    .commerce p:first-child {
+        font-size: 32px;
+    }
+    .commerce p:nth-child(2) {
+        font-size: 18px;
+    }
+    .mid-label p {
+        font-size: 11px;
+    }
+    .mid-label li {
+        line-height: 1;
+        font-size: 10px;
+    }
+    .label p{
+        font-size: 10px;
+    }
+    .rekvez li {
+        font-size: 10px;
+        line-height: 1;
+    }
+    .hd-r-m span,.hd-r-t span {
+        padding-right: 5%;
+    }
+    .modalDialog > div {
+        width: 75%;
+    }
+    .inp-req input[type="submit"] {
+        width: 85%;
+    }
+}
+@media screen and (max-width: 376px){
+
+    .hd-r {
+        width: 69%;
+    }
+    .hd-l-img img{
+        width: 100%;
+    }
+    .hd-l-img{
+        width: 100%;
+    }
+    .hd-l {
+        margin-left: 1%;
+        width: 30%;
+    }
+    .modalDialog > div {
+        width: 90%;
+    }
+    .itm button, .itm-2 button {
+        margin-left: 27%;
+    }
+    .itm-abs button, .itm-ab button {
+        margin-left: 20%;
+    }
+    .gls-l p:first-child b {
+        font-size: 44px;
+    }
+    .dillers-form button {
+        margin-left: 14%;
+    }
+    .dillers-form p:last-child {
+        font-size: 12px;
+    }
+    .dillers-form p:first-child {
+        font-size: 23px;
+    }
+    .clients p:first-child {
+        font-size: 25px;
+    }
+    .client p {
+        font-size: 20px;
+    }
+    .clients p:nth-child(4) {
+        font-size: 14px;
+    }
+    .serc p {
+        font-size: 26px;
+    }
+    .commerce p:first-child {
+        font-size: 26px;
+    }
+    .commerce p:nth-child(2) {
+        font-size: 15px;
+    }
+}
