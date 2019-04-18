@@ -9,7 +9,7 @@ header{
     float: left;
     position: fixed;
     z-index: 100;
-    background: rgba(255, 255, 255, 0.65);
+    background: rgb(255, 255, 255);
 }
 section{
     width: 100%;
